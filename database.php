@@ -1,5 +1,5 @@
 <?php
-class db {
+class Stratum {
 	private $dbh; // Database handle
 	private $funcCall; // Last method call
 	private $lastResult;

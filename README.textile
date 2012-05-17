@@ -1,0 +1,13 @@
+h1. Stratum
+
+PHP MySQL database layer.
+
+h2. Requirements
+
+* PHP
+
+* MySQL
+
+h2. Developers
+
+John Hoover, "http://defvayne23.com":http://defvayne23.com
